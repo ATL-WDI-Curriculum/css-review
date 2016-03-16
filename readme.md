@@ -51,7 +51,7 @@ Please count off again, and complete this exercise:
 
 ## Bonus - You Do: Ghost CSS
 
-[CSS Ghost](https://github.com/ga-wdi-exercises/css-ghost)
+[CSS Ghost](https://github.com/ATL-WDI-Exercises/css-ghost)
 
 ![2spooky4me](https://media.giphy.com/media/UBqZtU0cPF6Lu/giphy.gif)
 
