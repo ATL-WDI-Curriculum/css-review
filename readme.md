@@ -9,7 +9,7 @@
 
 ## Framing (10 min / 10 min)
 
-### What is CSS?
+#### What is CSS?
 
 > Cascading Style Sheets are what make webpages look like more than just words on a page. HTML's only purpose is to say what purpose chunks of content serve; CSS's only purpose is to say what a chunk with a certain purpose should look like.
 
@@ -18,7 +18,7 @@ This lesson is going to be almost entirely you working through some exercises we
 These exercises may use CSS properties with which you're unfamiliar. In fact, you may not be familiar with CSS at all.
 
 
-### What should you do if something is unfamiliar?
+#### What should you do if something is unfamiliar?
 
 > 1. Read it like English. CSS is intended to be readable, although sometimes it's more successful than at other times.
 > 2. Look it up. If you don't know what `box-sizing` means, Google `css box-sizing`.
@@ -27,7 +27,7 @@ The purpose of this class isn't for you to walk away being an expert in all thin
 
 Remember: being a good web designer is like being a good artist. We can teach you to hold the paintbrush, but it's on you to create a masterpiece!
 
-## HTML / CSS Review
+#### HTML / CSS Review
 
 See the [slides](html_css_review.pdf).
 
@@ -39,7 +39,7 @@ Please count off from 1 to `[class size / 2]`. In pairs, please work to complete
 
 Whoever completes the most questions gets bragging rights!
 
-### Questions/Break (20 min / 60 min)
+#### Questions/Break (20 min / 60 min)
 
 ## You Do: Wendy Bite (30 min / 130 min)
 
