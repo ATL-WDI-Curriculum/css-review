@@ -35,7 +35,7 @@ See the [slides](html_css_review.pdf).
 
 Please count off from 1 to `[class size / 2]`. In pairs, please work to complete this exercise:
 
-[CSS Review Exercise](https://github.com/ga-wdi-exercises/css-review)
+[CSS Review Exercise](https://github.com/ATL-WDI-Exercises/css-review)
 
 Whoever completes the most questions gets bragging rights!
 
