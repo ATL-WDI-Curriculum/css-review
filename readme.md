@@ -7,7 +7,7 @@
 - Identify the components of the box model
 - Differentiate between border-box and content-box values for box-sizing
 
-## Framing (10 min / 10 min)
+## Framing (10 min)
 
 #### What is CSS?
 
@@ -31,7 +31,7 @@ Remember: being a good web designer is like being a good artist. We can teach yo
 
 See the [slides](html_css_review.pdf).
 
-## You Do: CSS Crash Course (30 min / 40 min)
+## You Do: CSS Crash Course (30 min)
 
 Please count off from 1 to `[class size / 2]`. In pairs, please work to complete this exercise:
 
@@ -39,23 +39,23 @@ Please count off from 1 to `[class size / 2]`. In pairs, please work to complete
 
 Whoever completes the most questions gets bragging rights!
 
-#### Questions/Break (20 min / 60 min)
+#### Questions/Break (20 min)
 
-## You Do: Wendy Bite (30 min / 130 min)
+## You Do: Wendy Bite (30 min)
 
 Please count off again, and complete this exercise:
 
 [Wendy Bite](https://github.com/ATL-WDI-Exercises/wendy_bite)
 
-### Questions (10 min / 100 min)
+### Questions (10 min)
 
-## Bonus - You Do: Ghost CSS
+## Bonus - You Do: Ghost CSS (30 min)
 
 [CSS Ghost](https://github.com/ATL-WDI-Exercises/css-ghost)
 
 ![2spooky4me](https://media.giphy.com/media/UBqZtU0cPF6Lu/giphy.gif)
 
-### Questions (10 min / 140 min)
+### Questions (10 min)
 
 ## Outtro
 
