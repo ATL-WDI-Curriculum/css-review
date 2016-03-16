@@ -45,7 +45,7 @@ Whoever completes the most questions gets bragging rights!
 
 Please count off again, and complete this exercise:
 
-[Wendy Bite](https://github.com/ga-wdi-exercises/wendy_bite)
+[Wendy Bite](https://github.com/ATL-WDI-Exercises/wendy_bite)
 
 ### Questions (10 min / 100 min)
 
