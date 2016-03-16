@@ -39,9 +39,7 @@ Please count off from 1 to `[class size / 2]`. In pairs, please work to complete
 
 Whoever completes the most questions gets bragging rights!
 
-### Questions (10 min / 60 min)
-
-## Break (10 min / 50 min)
+### Questions/Break (20 min / 60 min)
 
 ## You Do: Wendy Bite (30 min / 130 min)
 
