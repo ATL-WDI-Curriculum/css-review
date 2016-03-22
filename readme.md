@@ -85,6 +85,7 @@ Q. What is Bootstrap, and how do you feel about it?
 - What does `z-index` do?
 - What is CSS specificity?
 - What are pseudo classes? (provide an example)
+- What are Google Fonts and how can we incorporate them into our app?
 
 ## Further Reading
 
