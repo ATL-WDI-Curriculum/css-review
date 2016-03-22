@@ -82,9 +82,13 @@ Q. What is Bootstrap, and how do you feel about it?
 - What's the difference between borders, margins, and padding?
 - What's the difference between an outline and a border?
 - How would you apply styles only for screens narrower than 480 pixels?
+- What does `z-index` do?
+- What is CSS specificity?
+- What are pseudo classes? (provide an example)
 
 ## Further Reading
 
+- [CSS Tricks Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Shay Howe's HTML/CSS Guide](http://learn.shayhowe.com)
 - [LearnLayout.com](http://learnlayout.com/)
   - An great interactive tutorial that details CSS' many properties and quirks.
