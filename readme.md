@@ -82,7 +82,7 @@ Q. What is Bootstrap, and how do you feel about it?
 - What's the difference between borders, margins, and padding?
 - What's the difference between an outline and a border?
 - How would you apply styles only for screens narrower than 480 pixels?
-- What does `z-index` do?
+- What is `z-index`?
 - What is CSS specificity?
 - What are psudo-classes? (provide an example)
 - What are composite selectors? (provide an example)
