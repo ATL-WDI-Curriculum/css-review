@@ -87,6 +87,8 @@ Q. What is Bootstrap, and how do you feel about it?
 - What are psudo-classes? (provide an example)
 - What are composite selectors? (provide an example)
 - What are Google Fonts and how can we incorporate them into our app?
+- What is an `em` and how is it used?
+- What are `vh` and `vw` and how are they used?
 
 ## Further Reading
 
